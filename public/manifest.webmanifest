@@ -1,0 +1,17 @@
+{
+  "name": "Christmas Clip Party",
+  "short_name": "Clip Party",
+  "description": "Watch, rate, and rank Christmas party clips.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e6",
+  "theme_color": "#12352d",
+  "icons": [
+    {
+      "src": "./party-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
